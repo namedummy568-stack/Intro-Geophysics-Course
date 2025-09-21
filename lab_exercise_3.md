@@ -1,0 +1,1 @@
+## Lab Exercise 3: Seismic Wave Analysis - Introduction: This lab explores basic concepts of seismic waves.
